@@ -47,3 +47,11 @@ results         # Finished results for each sample, one directory per pipeline s
 .nextflow.log   # Log file from Nextflow
 # Other nextflow hidden files, eg. history of pipeline runs and old logs.
 ```
+
+## Reference genomes available
+The following genomes are available:
+
+* UCSC hg38 (--genome hg38)
+* Ensembl GRCh37 (--genome GRCh37)
+* Ensembl GRCm38 (--genome GRCm38)
+* Ensembl Rnor_6.0 (--genome Rnor_6.0)
