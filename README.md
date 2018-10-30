@@ -17,7 +17,9 @@ This pipeline can be run on any Unix based environment that has Nextflow install
 See https://github.com/SciLifeLab/NGI-NextflowDocs for instructions on how to install and configure Nextflow.
 
 ### Singularity installation
-Singularity is a container technology similar to Docker that has become popular for use on HPCs. Admin assistance might be required for installation if your cluster does not already support Singularity containerization. See https://singularity.lbl.gov/ for instructions on how to install Singularity.
+Singularity is a container technology similar to Docker that has become popular for use on HPCs to handle multiple software dependencies. Admin assistance might be required for installation if your cluster does not already support Singularity containerization.
+
+See https://singularity.lbl.gov/ for instructions on how to install Singularity.
 
 See https://singularity.lbl.gov/install-request for information on how to request for Singularity to be installed on your university's HPC if not already available.
 
